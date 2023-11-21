@@ -1,0 +1,11 @@
+Model Information:
+* title:	Queen gibdo
+* source:	https://sketchfab.com/3d-models/queen-gibdo-505516d5ceec4895b9354478787b2919
+* author:	naviogutierrezdavid (https://sketchfab.com/naviogutierrezdavid)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Queen gibdo" (https://sketchfab.com/3d-models/queen-gibdo-505516d5ceec4895b9354478787b2919) by naviogutierrezdavid (https://sketchfab.com/naviogutierrezdavid) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
