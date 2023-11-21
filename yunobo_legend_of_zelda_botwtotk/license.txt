@@ -1,0 +1,11 @@
+Model Information:
+* title:	Yunobo (Legend of Zelda BOTW/TOTK)
+* source:	https://sketchfab.com/3d-models/yunobo-legend-of-zelda-botwtotk-505f8ab66b5f4301b0a41611f3f3411d
+* author:	alexthebear (https://sketchfab.com/alexthebear)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Yunobo (Legend of Zelda BOTW/TOTK)" (https://sketchfab.com/3d-models/yunobo-legend-of-zelda-botwtotk-505f8ab66b5f4301b0a41611f3f3411d) by alexthebear (https://sketchfab.com/alexthebear) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
